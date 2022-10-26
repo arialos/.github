@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/arialos/.github/21b0dc9320f0fb7667987e72704531c94762cde4/resources/arial.png" width="200px">
 <h1>The Arial Operating System.</h1>
 <p align="center">
     <a href="https://spiky-morocco-d93.notion.site/Arial-Development-4bc9666c1b3741198fc7c4b11ca0fc61">
